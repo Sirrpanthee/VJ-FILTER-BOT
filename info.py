@@ -20,13 +20,13 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '14050586'))
 API_HASH = environ.get('API_HASH', '42a60d9c657b106370c79bb0a8ac560c')
-BOT_TOKEN = environ.get('BOT_TOKEN', "8024304915:AAG25TBvNforeDEP2xNnWNjUHNkPTtRDgYc")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 PICS = (environ.get('PICS', 'https://graph.org/file/d49ad47e5f6e8d1e90a5e.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/GODXNEXU")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
