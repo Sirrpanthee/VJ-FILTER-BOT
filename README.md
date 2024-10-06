@@ -191,9 +191,9 @@ Edit info.py with variables as given below then run bot
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/rishu1286)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/NEXUXMANAGER)
 
-<b>[Note To A So Called Dev](https://telegram.dog/rishu1286): 
+<b>[Note To A So Called Dev](https://telegram.dog/NEXUXMANAGER): 
 
 Fork The Repo And Edit As Per Your Needs.</b>
 
